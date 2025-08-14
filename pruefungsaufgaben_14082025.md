@@ -32,6 +32,6 @@
 ## 🔹 Aufgabe 9: Alles löschen
 - Lösche das gesamte Verzeichnis `uebung1` samt Inhalt.
 
-## 🔹 Aufgabe 10: Übung abschließen
+## 🔹 Aufgabe 10: Übung abschliessen
 - Gehe zurück ins Home-Verzeichnis (`cd ~`).
 - Liste alle Dateien im aktuellen Verzeichnis auf.
